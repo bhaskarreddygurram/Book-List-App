@@ -23,8 +23,9 @@ two Event Listeners:
 1)submit Button - Add a Book
 2) delete Button - remove the book
 
-messages:
+Messages - we get by eventlisteners:
 
 success message - when we add the book properly, delete the book
+
 error message - when we didn't fill the form properly.
 
